@@ -1,0 +1,104 @@
+fileFormatVersion: 2
+guid: 3c7e9e10fb9d7eb498eb7792c9c9d61c
+timeCreated: 1441823790
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Balloon_bush_master:balloon_bush_mesh
+    100004: Balloon_bush_master:base_control
+    100006: Balloon_bush_master:base_grp
+    100008: Balloon_bush_master:base_joint
+    100010: Balloon_bush_master:bushes_control
+    100012: Balloon_bush_master:bushes_grp
+    100014: Balloon_bush_master:bushes_joint
+    100016: Balloon_bush_master:main_control
+    100018: Balloon_bush_master:main_grp
+    100020: Balloon_bush_master:root
+    100022: Balloon_bush_master:trunk_control
+    100024: Balloon_bush_master:trunk_grp
+    100026: Balloon_bush_master:trunk_joint
+    400000: //RootNode
+    400002: Balloon_bush_master:balloon_bush_mesh
+    400004: Balloon_bush_master:base_control
+    400006: Balloon_bush_master:base_grp
+    400008: Balloon_bush_master:base_joint
+    400010: Balloon_bush_master:bushes_control
+    400012: Balloon_bush_master:bushes_grp
+    400014: Balloon_bush_master:bushes_joint
+    400016: Balloon_bush_master:main_control
+    400018: Balloon_bush_master:main_grp
+    400020: Balloon_bush_master:root
+    400022: Balloon_bush_master:trunk_control
+    400024: Balloon_bush_master:trunk_grp
+    400026: Balloon_bush_master:trunk_joint
+    4300000: Balloon_bush_master:balloon_bush_mesh
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: Balloon_bush_master:balloon_bush_mesh
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: Balloon_bush_master:root
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: 519d3247f53b15540923ee29b6c0cc71,
+    type: 3}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

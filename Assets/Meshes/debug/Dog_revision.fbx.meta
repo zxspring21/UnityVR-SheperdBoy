@@ -1,0 +1,204 @@
+fileFormatVersion: 2
+guid: 089861147cd91024a8ca66ae44efdb58
+timeCreated: 1440608750
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: breathe_joint
+    100002: chest_joint
+    100004: COG_joint
+    100006: dog_mesh
+    100008: //RootNode
+    100010: head_joint
+    100012: jaw_joint
+    100014: L_back_ankle_joint
+    100016: L_back_ball_joint
+    100018: L_back_hip_joint
+    100020: L_back_knee_joint
+    100022: L_back_lower_leg_joint
+    100024: L_back_toes_joint
+    100026: L_clavicle_joint
+    100028: L_ear_1_joint
+    100030: L_ear_2_joint
+    100032: L_ear_base_joint
+    100034: L_ear_tip_joint
+    100036: L_eyeball_joint
+    100038: L_front_ankle_joint
+    100040: L_front_ball_joint
+    100042: L_front_hip_joint
+    100044: L_front_knee_joint
+    100046: L_front_lower_leg_joint
+    100048: L_front_toes_joint
+    100050: L_lower_lid_joint
+    100052: L_mouth_corner_joint
+    100054: L_muzzle_joint
+    100056: L_upper_lid_joint
+    100058: neck_1_joint
+    100060: neck_2_joint
+    100062: nose_joint
+    100064: pelvis_joint
+    100066: R_back_ankle_joint
+    100068: R_back_ball_joint
+    100070: R_back_hip_joint
+    100072: R_back_knee_joint
+    100074: R_back_lower_leg_joint
+    100076: R_back_toes_joint
+    100078: R_clavicle_joint
+    100080: R_ear_1_joint
+    100082: R_ear_2_joint
+    100084: R_ear_base_joint
+    100086: R_ear_tip_joint
+    100088: R_eyeball_joint
+    100090: R_front_ankle_joint
+    100092: R_front_ball_joint
+    100094: R_front_hip_joint
+    100096: R_front_knee_joint
+    100098: R_front_lower_leg_joint
+    100100: R_front_toes_joint
+    100102: R_lower_lid_joint
+    100104: R_mouth_corner_joint
+    100106: R_muzzle_joint
+    100108: R_upper_lid_joint
+    100110: root
+    100112: spine_1_joint
+    100114: spine_2_joint
+    100116: tail_1_joint
+    100118: tail_2_joint
+    100120: tail_3_joint
+    100122: tail_4_joint
+    100124: tail_base_joint
+    100126: tail_tip_joint
+    400000: breathe_joint
+    400002: chest_joint
+    400004: COG_joint
+    400006: dog_mesh
+    400008: //RootNode
+    400010: head_joint
+    400012: jaw_joint
+    400014: L_back_ankle_joint
+    400016: L_back_ball_joint
+    400018: L_back_hip_joint
+    400020: L_back_knee_joint
+    400022: L_back_lower_leg_joint
+    400024: L_back_toes_joint
+    400026: L_clavicle_joint
+    400028: L_ear_1_joint
+    400030: L_ear_2_joint
+    400032: L_ear_base_joint
+    400034: L_ear_tip_joint
+    400036: L_eyeball_joint
+    400038: L_front_ankle_joint
+    400040: L_front_ball_joint
+    400042: L_front_hip_joint
+    400044: L_front_knee_joint
+    400046: L_front_lower_leg_joint
+    400048: L_front_toes_joint
+    400050: L_lower_lid_joint
+    400052: L_mouth_corner_joint
+    400054: L_muzzle_joint
+    400056: L_upper_lid_joint
+    400058: neck_1_joint
+    400060: neck_2_joint
+    400062: nose_joint
+    400064: pelvis_joint
+    400066: R_back_ankle_joint
+    400068: R_back_ball_joint
+    400070: R_back_hip_joint
+    400072: R_back_knee_joint
+    400074: R_back_lower_leg_joint
+    400076: R_back_toes_joint
+    400078: R_clavicle_joint
+    400080: R_ear_1_joint
+    400082: R_ear_2_joint
+    400084: R_ear_base_joint
+    400086: R_ear_tip_joint
+    400088: R_eyeball_joint
+    400090: R_front_ankle_joint
+    400092: R_front_ball_joint
+    400094: R_front_hip_joint
+    400096: R_front_knee_joint
+    400098: R_front_lower_leg_joint
+    400100: R_front_toes_joint
+    400102: R_lower_lid_joint
+    400104: R_mouth_corner_joint
+    400106: R_muzzle_joint
+    400108: R_upper_lid_joint
+    400110: root
+    400112: spine_1_joint
+    400114: spine_2_joint
+    400116: tail_1_joint
+    400118: tail_2_joint
+    400120: tail_3_joint
+    400122: tail_4_joint
+    400124: tail_base_joint
+    400126: tail_tip_joint
+    2300000: dog_mesh
+    3300000: dog_mesh
+    4300000: dog_mesh
+    9500000: //RootNode
+    13700000: dog_mesh
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
